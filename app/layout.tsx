@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'CALM - Case & Lifecycle Management',
+  title: 'Resolve - Student Case Management',
   description: 'University Student Case Management System for academic, financial, conduct, support, and administrative cases',
   generator: 'v0.app',
   icons: {

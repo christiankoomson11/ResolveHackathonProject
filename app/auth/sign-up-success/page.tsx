@@ -11,8 +11,8 @@ export default function SignUpSuccessPage() {
           <GraduationCap className="h-7 w-7 text-primary-foreground" />
         </div>
         <div>
-          <h1 className="text-2xl font-bold tracking-tight text-foreground">CALM</h1>
-          <p className="text-sm text-muted-foreground">Case & Lifecycle Management</p>
+          <h1 className="text-2xl font-bold tracking-tight text-foreground">Resolve</h1>
+          <p className="text-sm text-muted-foreground">Student Case Management</p>
         </div>
       </div>
 

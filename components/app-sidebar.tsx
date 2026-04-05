@@ -117,7 +117,7 @@ export function AppSidebar({ profile }: AppSidebarProps) {
             <GraduationCap className="h-5 w-5 text-sidebar-primary-foreground" />
           </div>
           <div className="flex flex-col group-data-[collapsible=icon]:hidden">
-            <span className="text-sm font-semibold text-sidebar-foreground">CALM</span>
+            <span className="text-sm font-semibold text-sidebar-foreground">Resolve</span>
             <span className="text-xs text-sidebar-foreground/70">Case Management</span>
           </div>
         </Link>
